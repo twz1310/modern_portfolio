@@ -1,4 +1,4 @@
-Modern Portfolio
+# Modern Portfolio
 Portfolio made with HTML5 CSS3 SASS &amp; JavaScript\
 Credit to tutorial: https://www.youtube.com/watch?v=gYzHS-n2gqU
 
